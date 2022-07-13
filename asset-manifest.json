@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/customhooktwo/static/css/main.79018ad8.chunk.css",
+    "main.js": "/customhooktwo/static/js/main.1338c34a.chunk.js",
+    "main.js.map": "/customhooktwo/static/js/main.1338c34a.chunk.js.map",
+    "runtime-main.js": "/customhooktwo/static/js/runtime-main.7115b645.js",
+    "runtime-main.js.map": "/customhooktwo/static/js/runtime-main.7115b645.js.map",
+    "static/js/2.584a34d2.chunk.js": "/customhooktwo/static/js/2.584a34d2.chunk.js",
+    "static/js/2.584a34d2.chunk.js.map": "/customhooktwo/static/js/2.584a34d2.chunk.js.map",
+    "index.html": "/customhooktwo/index.html",
+    "static/css/main.79018ad8.chunk.css.map": "/customhooktwo/static/css/main.79018ad8.chunk.css.map",
+    "static/js/2.584a34d2.chunk.js.LICENSE.txt": "/customhooktwo/static/js/2.584a34d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7115b645.js",
+    "static/js/2.584a34d2.chunk.js",
+    "static/css/main.79018ad8.chunk.css",
+    "static/js/main.1338c34a.chunk.js"
+  ]
+}
